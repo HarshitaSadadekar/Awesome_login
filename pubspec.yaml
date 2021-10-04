@@ -31,7 +31,7 @@ dependencies:
   flutter_svg: ^0.22.0
   flutter_feather_icons: ^2.0.0+1
   lint: ^1.0.0
-
+  google_fonts: ^2.1.0
 dev_dependencies:
   flutter_test:
     sdk: flutter
