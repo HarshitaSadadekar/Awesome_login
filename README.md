@@ -1,6 +1,6 @@
 # awesome_login
 
-A new Flutter project.
+A very very new flutter project
 
 ## Getting Started
 
